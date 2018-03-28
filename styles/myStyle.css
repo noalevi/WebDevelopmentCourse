@@ -1,0 +1,44 @@
+
+
+
+
+body {
+    direction: rtl;
+    background-color:cornflowerblue;
+}
+#container {
+    width: 960px;
+    margin: auto;
+}
+
+.ptiha h1 {font-size:50px;
+           font-family: Calibri;
+           color: white; 
+}
+.ptiha section {font-size: 30px;
+        font-family: Calibri;
+        color:white;
+}
+img {width:100px;
+     padding-top:20px;
+     height:100px;
+     padding-bottom:20px;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input[type ='text'], input[type ='password'], textarea, select {
+    display: block;
+    margin-bottom: 15px;
+}
+
+input[type ='submit'] {
+    margin-top: 10px;
+}
+.forms img{width:300px;
+           height:300px;
+}
+
+
