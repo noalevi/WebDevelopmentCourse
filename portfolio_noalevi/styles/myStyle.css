@@ -1,0 +1,150 @@
+
+
+body {
+    background-color: palegoldenrod;
+    direction: rtl;
+    font-family: Calibri;
+    background-image: url('images/487357825.jpg');
+    background-size: 960px;
+    background-position: center;
+    background-repeat:no-repeat;
+   
+}
+
+#container {
+    width: 960px;
+    margin: auto
+}
+
+
+#body {
+    align-content: center;
+    text-align: center;
+    font-family: Calibri;  
+}
+
+h1 {
+    color: gray;
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+    font-family:Calibri;
+    
+}
+
+nav ul li {
+    margin-right:65px;
+    display: inline-block;
+    float: inherit;
+    margin-bottom: 10px;
+    
+}
+    nav ul li a {
+        display: block;
+        background-color: lightblue;
+        color: gray;
+        width: 150px;
+        height: 30px;
+        padding-top: 10px;
+        margin-top: 30px;
+        text-decoration: none;
+        text-align: center;
+        font-weight: bold;
+        font-family:Calibri;
+        
+    }
+
+    a:hover 
+    {
+        background-color:paleturquoise;
+    }
+
+#tikshoh h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: darkslategray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-right: 105px;
+    font-family: Calibri;
+    position: inherit;
+    position: absolute;
+    right: 270px;
+    
+}
+
+#tikshoh p {
+    font-family: Calibri;
+    text-align: inherit;
+    margin-right: 120px !important;
+    font-size: 14pt;
+    position: absolute;
+    right: 270px;
+    bottom: 550px;
+    margin-right: 5px;
+}
+#youtube {margin-right:400px;}
+
+#pict {
+    position:inherit;
+    right:400px;
+   margin-right:400px;
+   margin-top:120px;
+}
+
+
+#grafih p {
+    font-family: Calibri;
+    font-size: 14pt;
+    margin-right: 5px;
+}
+#grafih h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: darkslategray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Calibri;
+    margin-right: 5px;
+}
+#picg img {
+   width:350px;
+   height:400px;
+   margin-top:30px;
+}
+#homepage p {
+    font-family: Calibri;
+    font-size: 14pt;
+}
+#homepage h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: darkslategray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family:Calibri;
+}
+    #interh p {
+    font-family: Calibri;
+    font-size: 14pt;
+    margin-right:5px;
+}
+#interh h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: darkslategray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Calibri;
+    margin-right: 5px;
+}
+
+
+   
+
+
+
+   
+       
+ 
